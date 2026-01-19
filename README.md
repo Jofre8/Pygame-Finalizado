@@ -13,9 +13,13 @@ Para ver si el fantasma se ha ido, mire la cámara 5, si ve las luces estan cerr
 
 Controles:
 A = Ir a la puerta
+
 Espacio = Cierras o abres la puerta si te encuentras delante de ella
+
 S = Vuelves a la pantalla del ordenador
+
 W = Acceder a las cámaras si estas en la pantalla del ordenador
+
 1,2,3,4,5 = Cambiar a sus respectivas cámaras
 
 S = Vuelves a la pantalla del ordenador, ya sea que estés en cámaras o en puerta

@@ -13,7 +13,7 @@ ruleta = {
     6: [5, 4, 3, 2, 1]
 }
 
-numero_actual = 5
+numero_actual = 1
 
 def ruleta_en_segundo_plano():
     global numero_actual
@@ -24,4 +24,5 @@ def ruleta_en_segundo_plano():
 
 
 hilo = threading.Thread(target=ruleta_en_segundo_plano, daemon=True)
+
 hilo.start()
